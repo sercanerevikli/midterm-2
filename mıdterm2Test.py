@@ -1,3 +1,4 @@
+#BONUS VERSION OF THE CODE
 def printingShareHolder(shareList,shares):
     l = len(sharesList)
     needed = sharesList[0]
